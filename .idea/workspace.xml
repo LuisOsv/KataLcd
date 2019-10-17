@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b1b9ef5-7ae2-4e93-aae0-1a13cbe1d739" name="Default Changelist" comment="" />
+    <list default="true" id="4b1b9ef5-7ae2-4e93-aae0-1a13cbe1d739" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NumberToLCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NumberToLCD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestMultipleDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestMultipleDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestSingleDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestSingleDigits.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,7 +19,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -27,41 +32,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestSingleDigits.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="18" column="25" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="18" selection-end-column="25" />
+            <state relative-caret-position="349">
+              <caret line="38" column="58" lean-forward="true" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/NumberToLCD.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="72" column="26" selection-start-line="72" selection-start-column="26" selection-end-line="72" selection-end-column="26" />
+              <folding>
+                <element signature="e#1847#1855#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/NumberToLCD.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="69" column="30" lean-forward="true" selection-start-line="69" selection-start-column="30" selection-end-line="69" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestMultipleDigits.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+            <state relative-caret-position="168">
+              <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/KataNotes">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -75,6 +74,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -82,8 +84,9 @@
         <option value="$PROJECT_DIR$/src/main/java/LCD.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestKataLCD.java" />
         <option value="$PROJECT_DIR$/KataNotes" />
-        <option value="$PROJECT_DIR$/src/test/java/TestMultipleDigits.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestSingleDigits.java" />
         <option value="$PROJECT_DIR$/src/main/java/NumberToLCD.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestMultipleDigits.java" />
       </list>
     </option>
   </component>
@@ -100,13 +103,13 @@
     <option name="width" value="785" />
     <option name="height" value="835" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,12 +121,6 @@
               <item name="kata_lcd" type="b2602c69:ProjectViewProjectNode" />
               <item name="kata_lcd" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kata_lcd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kata_lcd" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kata_lcd" type="b2602c69:ProjectViewProjectNode" />
@@ -142,9 +139,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -159,12 +158,31 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestSingleDigits">
-    <configuration name="TestMultipleDigits.testTwoDigits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TestMultipleDigits.testAllDigits">
+    <configuration name="TestMultipleDigits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kata_lcd" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestMultipleDigits" />
-      <option name="METHOD_NAME" value="testTwoDigits" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMultipleDigits.testAllDigits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kata_lcd" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestMultipleDigits" />
+      <option name="METHOD_NAME" value="testAllDigits" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMultipleDigits.testThreeDigits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kata_lcd" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestMultipleDigits" />
+      <option name="METHOD_NAME" value="testThreeDigits" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -179,21 +197,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSingleDigits.testDigitFour" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSingleDigits.testDigitThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kata_lcd" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestSingleDigits" />
-      <option name="METHOD_NAME" value="testDigitFour" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestSingleDigits.testDigitTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="kata_lcd" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestSingleDigits" />
-      <option name="METHOD_NAME" value="testDigitTwo" />
+      <option name="METHOD_NAME" value="testDigitThree" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -201,10 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestMultipleDigits.testAllDigits" />
+        <item itemvalue="JUnit.TestMultipleDigits" />
         <item itemvalue="JUnit.TestSingleDigits" />
-        <item itemvalue="JUnit.TestMultipleDigits.testTwoDigits" />
-        <item itemvalue="JUnit.TestSingleDigits.testDigitFour" />
-        <item itemvalue="JUnit.TestSingleDigits.testDigitTwo" />
+        <item itemvalue="JUnit.TestSingleDigits.testDigitThree" />
+        <item itemvalue="JUnit.TestMultipleDigits.testThreeDigits" />
       </list>
     </recent_temporary>
   </component>
@@ -222,70 +231,78 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestKataLCD - 2019.10.15 at 23h 34m 43s.xml">
-      <configuration name="TestKataLCD" configurationId="JUnit" />
+    <history-entry file="TestMultipleDigits - 2019.10.16 at 22h 27m 14s.xml">
+      <configuration name="TestMultipleDigits" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestKataLCD - 2019.10.15 at 23h 39m 43s.xml">
-      <configuration name="TestKataLCD" configurationId="JUnit" />
+    <history-entry file="TestMultipleDigits_testAllDigits - 2019.10.16 at 22h 29m 50s.xml">
+      <configuration name="TestMultipleDigits.testAllDigits" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestKataLCD_testDigitTwo - 2019.10.15 at 23h 45m 52s.xml">
-      <configuration name="TestKataLCD.testDigitTwo" configurationId="JUnit" />
+    <history-entry file="TestMultipleDigits - 2019.10.16 at 22h 33m 58s.xml">
+      <configuration name="TestMultipleDigits" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestKataLCD - 2019.10.15 at 23h 45m 58s.xml">
-      <configuration name="TestKataLCD" configurationId="JUnit" />
+    <history-entry file="TestMultipleDigits_testAllDigits - 2019.10.16 at 22h 34m 08s.xml">
+      <configuration name="TestMultipleDigits.testAllDigits" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestKataLCD - 2019.10.16 at 00h 16m 55s.xml">
-      <configuration name="TestKataLCD" configurationId="JUnit" />
+    <history-entry file="TestMultipleDigits_testAllDigits - 2019.10.16 at 22h 35m 51s.xml">
+      <configuration name="TestMultipleDigits.testAllDigits" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestKataLCD_testDigitFour - 2019.10.16 at 00h 17m 57s.xml">
-      <configuration name="TestKataLCD.testDigitFour" configurationId="JUnit" />
+    <history-entry file="TestMultipleDigits_testAllDigits - 2019.10.16 at 22h 36m 46s.xml">
+      <configuration name="TestMultipleDigits.testAllDigits" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestKataLCD - 2019.10.16 at 00h 18m 41s.xml">
-      <configuration name="TestKataLCD" configurationId="JUnit" />
+    <history-entry file="TestMultipleDigits_testAllDigits - 2019.10.16 at 22h 36m 59s.xml">
+      <configuration name="TestMultipleDigits.testAllDigits" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMultipleDigits_testTwoDigits - 2019.10.16 at 00h 30m 57s.xml">
-      <configuration name="TestMultipleDigits.testTwoDigits" configurationId="JUnit" />
+    <history-entry file="TestMultipleDigits_testAllDigits - 2019.10.16 at 22h 39m 37s.xml">
+      <configuration name="TestMultipleDigits.testAllDigits" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMultipleDigits_testTwoDigits - 2019.10.16 at 00h 31m 29s.xml">
-      <configuration name="TestMultipleDigits.testTwoDigits" configurationId="JUnit" />
+    <history-entry file="TestMultipleDigits_testAllDigits - 2019.10.16 at 22h 40m 01s.xml">
+      <configuration name="TestMultipleDigits.testAllDigits" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMultipleDigits_testTwoDigits - 2019.10.16 at 00h 32m 54s.xml">
-      <configuration name="TestMultipleDigits.testTwoDigits" configurationId="JUnit" />
+    <history-entry file="TestMultipleDigits_testAllDigits - 2019.10.16 at 22h 40m 48s.xml">
+      <configuration name="TestMultipleDigits.testAllDigits" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21946308" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3286119" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28895184" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28895184" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38243628" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.43201134" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -296,24 +313,14 @@
     <entry file="file://$PROJECT_DIR$/KataNotes">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
-          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestMultipleDigits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestSingleDigits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="18" column="25" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="18" selection-end-column="25" />
+        <state relative-caret-position="349">
+          <caret line="38" column="58" lean-forward="true" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -322,8 +329,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/NumberToLCD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="69" column="30" lean-forward="true" selection-start-line="69" selection-start-column="30" selection-end-line="69" selection-end-column="30" />
+        <state relative-caret-position="154">
+          <caret line="72" column="26" selection-start-line="72" selection-start-column="26" selection-end-line="72" selection-end-column="26" />
+          <folding>
+            <element signature="e#1847#1855#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestMultipleDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

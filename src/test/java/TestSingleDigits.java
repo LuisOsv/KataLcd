@@ -6,26 +6,27 @@ public class TestSingleDigits {
     @Test
     public void testDigitOne(){
         StringBuilder sb = new StringBuilder();
+        sb.append(" \n");
         sb.append("|\n");
-        sb.append("|");
+        sb.append("|\n");
         Assert.assertEquals(sb.toString(),NumberToLCD.convertDigit(1));
     }
 
     @Test
     public void testDigitTwo(){
         StringBuilder sb = new StringBuilder();
-        sb.append(" _ \n");
+        sb.append(" _\n");
         sb.append(" _|\n");
-        sb.append("|_ ");
+        sb.append("|_\n");
         Assert.assertEquals(sb.toString(),NumberToLCD.convertDigit(2));
     }
 
     @Test
     public void testDigitThree(){
         StringBuilder sb = new StringBuilder();
-        sb.append(" _ \n");
+        sb.append(" _\n");
         sb.append(" _|\n");
-        sb.append(" _|");
+        sb.append(" _|\n");
         Assert.assertEquals(sb.toString(),NumberToLCD.convertDigit(3));
     }
 
@@ -34,7 +35,7 @@ public class TestSingleDigits {
         StringBuilder sb = new StringBuilder();
         sb.append("   \n");
         sb.append("|_|\n");
-        sb.append("  |");
+        sb.append("  |\n");
         Assert.assertEquals(sb.toString(),NumberToLCD.convertDigit(4));
     }
 
@@ -43,7 +44,7 @@ public class TestSingleDigits {
         StringBuilder sb = new StringBuilder();
         sb.append(" _ \n");
         sb.append("|_ \n");
-        sb.append(" _|");
+        sb.append(" _|\n");
         Assert.assertEquals(sb.toString(),NumberToLCD.convertDigit(5));
     }
 
@@ -52,7 +53,7 @@ public class TestSingleDigits {
         StringBuilder sb = new StringBuilder();
         sb.append(" _ \n");
         sb.append("|_ \n");
-        sb.append("|_|");
+        sb.append("|_|\n");
         Assert.assertEquals(sb.toString(),NumberToLCD.convertDigit(6));
     }
 
@@ -60,8 +61,8 @@ public class TestSingleDigits {
     public void testDigitSeven(){
         StringBuilder sb = new StringBuilder();
         sb.append(" _ \n");
-        sb.append("  | \n");
-        sb.append("  |");
+        sb.append("  |\n");
+        sb.append("  |\n");
         Assert.assertEquals(sb.toString(),NumberToLCD.convertDigit(7));
     }
 
@@ -69,8 +70,8 @@ public class TestSingleDigits {
     public void testDigitEight(){
         StringBuilder sb = new StringBuilder();
         sb.append(" _ \n");
-        sb.append("|_| \n");
-        sb.append("|_|");
+        sb.append("|_|\n");
+        sb.append("|_|\n");
         Assert.assertEquals(sb.toString(),NumberToLCD.convertDigit(8));
     }
 
@@ -78,8 +79,8 @@ public class TestSingleDigits {
     public void testDigitNine(){
         StringBuilder sb = new StringBuilder();
         sb.append(" _ \n");
-        sb.append("|_| \n");
-        sb.append(" _|");
+        sb.append("|_|\n");
+        sb.append(" _|\n");
         Assert.assertEquals(sb.toString(),NumberToLCD.convertDigit(9));
     }
 
@@ -87,8 +88,8 @@ public class TestSingleDigits {
     public void testDigitZero(){
         StringBuilder sb = new StringBuilder();
         sb.append(" _ \n");
-        sb.append("| | \n");
-        sb.append("|_|");
+        sb.append("| |\n");
+        sb.append("|_|\n");
         Assert.assertEquals(sb.toString(),NumberToLCD.convertDigit(0));
     }
 }
