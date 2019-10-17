@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b1b9ef5-7ae2-4e93-aae0-1a13cbe1d739" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NumberToLCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NumberToLCD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TestMultipleDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestMultipleDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSingleDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestSingleDigits.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -56,8 +53,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestMultipleDigits.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+            <state relative-caret-position="88">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -158,7 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestMultipleDigits.testAllDigits">
+  <component name="RunManager" selected="JUnit.TestSingleDigits">
     <configuration name="TestMultipleDigits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kata_lcd" />
       <option name="PACKAGE_NAME" value="" />
@@ -209,9 +206,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestMultipleDigits.testAllDigits" />
-        <item itemvalue="JUnit.TestMultipleDigits" />
         <item itemvalue="JUnit.TestSingleDigits" />
+        <item itemvalue="JUnit.TestMultipleDigits" />
+        <item itemvalue="JUnit.TestMultipleDigits.testAllDigits" />
         <item itemvalue="JUnit.TestSingleDigits.testDigitThree" />
         <item itemvalue="JUnit.TestMultipleDigits.testThreeDigits" />
       </list>
@@ -231,15 +228,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestMultipleDigits - 2019.10.16 at 22h 27m 14s.xml">
-      <configuration name="TestMultipleDigits" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestMultipleDigits_testAllDigits - 2019.10.16 at 22h 29m 50s.xml">
-      <configuration name="TestMultipleDigits.testAllDigits" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestMultipleDigits - 2019.10.16 at 22h 33m 58s.xml">
-      <configuration name="TestMultipleDigits" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestMultipleDigits_testAllDigits - 2019.10.16 at 22h 34m 08s.xml">
       <configuration name="TestMultipleDigits.testAllDigits" configurationId="JUnit" />
     </history-entry>
@@ -261,6 +249,15 @@
     <history-entry file="TestMultipleDigits_testAllDigits - 2019.10.16 at 22h 40m 48s.xml">
       <configuration name="TestMultipleDigits.testAllDigits" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestMultipleDigits_testAllDigits - 2019.10.16 at 22h 41m 52s.xml">
+      <configuration name="TestMultipleDigits.testAllDigits" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSingleDigits - 2019.10.16 at 22h 45m 14s.xml">
+      <configuration name="TestSingleDigits" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMultipleDigits - 2019.10.16 at 22h 45m 20s.xml">
+      <configuration name="TestMultipleDigits" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -275,7 +272,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28895184" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39235127" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.38243628" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -339,8 +336,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestMultipleDigits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+        <state relative-caret-position="88">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
